@@ -86,7 +86,7 @@ body {
 }
 
 .header {
-  min-height: 30vh;
+  min-height: 45vh;
   background: var(--background-image) no-repeat left center/cover;
   width: 100%;
 }
@@ -389,7 +389,7 @@ li::after {
   }
 
   .header {
-    min-height: 31vh;
+    min-height: 40vh;
   }
 
   main {
